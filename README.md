@@ -1,72 +1,45 @@
-<h1 align="center">Hi, I'm Harsh Chavan</h1>
-<h3 align="center">Mathematics & Computing Student | Quantitative Research Enthusiast | Data Science & ML Practitioner</h3>
+## About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xyerophyte&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+Hi, I’m a Mathematics & Computing student with a growing interest in quantitative finance and systems engineering.  
+I enjoy working on problems where math, programming, and real-world decision-making intersect. Most of my personal projects revolve around building small trading systems, exploring market behavior, and improving my ability to write clean, efficient code. I’m actively sharpening my skills in C++, Python, and numerical methods as I move toward roles in quantitative development.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Xyerophyte&theme=flat&margin-w=10&margin-h=10" alt="trophies"/>
-  </a>
-</p>
+🧪 I’m currently working on  
+Building lightweight quant models, experimenting with factor-based strategies, and improving the performance of my C++/Python implementations.
 
----
+🤝 I’m looking to collaborate on  
+Projects involving backtesting frameworks, statistical modeling, or low-latency systems work. I like environments where math and engineering meet.
 
-### About Me
-I’m currently pursuing a B.E. in Mathematics and Computing. My interests sit at the intersection of quantitative modelling, machine learning, financial systems, and computational methods.  
-I enjoy building systems, exploring asset-pricing dynamics, and experimenting with data-driven pipelines that reflect real-world complexity.
+🧠 I’m looking for help with  
+Derivatives pricing techniques, advanced optimization methods, and best practices for structuring production-level quant code.
 
----
+🌱 I’m currently learning  
+Probability-heavy ML, numerical algorithms, and modern C++ for high-performance computing. Also getting familiar with market microstructure and execution logic.
 
-### What I'm Working On
-- **HFT Simulator** – A modular high-frequency trading execution and market-microstructure simulator.  
-  Repo: https://github.com/Xyerophyte/hft-simulator  
+💬 Ask me about  
+Math puzzles, algorithm design, clean system architecture, or how I build small trading tools from scratch.
 
-- **SWIRL** – A lightweight ML-driven research framework for structured workflows and reproducible experimentation.  
-  Repo: https://github.com/Xyerophyte/swirl
+⚡ Fun fact  
+I often take a math problem meant for class and end up turning it into a mini coding project just because it’s more fun that way.
+<br>
 
----
 
-### Find My Work
-Most of what I build—projects, tools, experiments—lives here:  
-**https://github.com/Xyerophyte**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshchavan2211) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/harsh-chavan-369522316/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshabasaheb1@gmail.com) 
 
-I also write short breakdowns, thought pieces, and learning notes here:  
-**https://www.linkedin.com/in/harsh-chavan-369522316/**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Xyerophyte&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Xyerophyte&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xyerophyte&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Xyerophyte&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### Contact
-**Email:** harshabasaheb1@gmail.com
-
----
-
-### Connect With Me
-<p>
-  <a href="https://linkedin.com/in/harsh-chavan-369522316" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
-  </a>
-  <a href="https://kaggle.com/harshchavan2211" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="30"/>
-  </a>
-  <a href="https://instagram.com/harshchavan2211" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Xyerophyte&icon=9&color=8)](https://visitcount.itsvg.in)
 
-### Languages & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-</p>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
